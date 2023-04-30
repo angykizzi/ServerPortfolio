@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb790a20.css",
+    "main.js": "/static/js/main.29989e98.js",
+    "static/media/figma.png": "/static/media/figma.749e00de5a67485bb79d.png",
+    "static/media/project-img1.png": "/static/media/project-img1.7ed00b233870ddf0debe.png",
+    "static/media/project-img2.png": "/static/media/project-img2.f94cb2dfd15f15e20e17.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/imageReact.png": "/static/media/imageReact.d116a9cc579cf164cf88.png",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.be8a63e75dbbff170a67.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/css.png": "/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/html.png": "/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/bootsrap.png": "/static/media/bootsrap.d5210cdeab1bc94309c4.png",
+    "static/media/js.png": "/static/media/js.166865dacb77d214f485.png",
+    "static/media/sql.png": "/static/media/sql.8c53f46599d600c84b79.png",
+    "static/media/header-img.svg": "/static/media/header-img.34db15ac6d179ec2c99c2e89c8bfd5e2.svg",
+    "static/media/contact-img.svg": "/static/media/contact-img.b7283051ed9e4cf46c15995d1efc8a65.svg",
+    "static/media/typescript.png": "/static/media/typescript.bb13ebd9561a6ee645c2.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.bb790a20.css.map": "/static/css/main.bb790a20.css.map",
+    "main.29989e98.js.map": "/static/js/main.29989e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb790a20.css",
+    "static/js/main.29989e98.js"
+  ]
+}
